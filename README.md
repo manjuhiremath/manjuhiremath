@@ -85,15 +85,11 @@ Rasa, Python, JavaScript, HTML/CSS
 
 - Developed a conversational AI using Rasa with advanced Natural Language Processing (NLP) capabilities for song recommendations.
 
-**Cloud Files**  
-React.js, Firebase, Bootstrap  
-[GitHub Repository](https://github.com/manjuhiremath/cloud-files)
+**Cloud Files**  |  React.js, Firebase, Bootstrap  |  [GitHub Repository](https://github.com/manjuhiremath/cloud-files)
 
 - Built full-stack applications with modern technologies like React and Firebase. Developed features for uploading, creating, deleting, editing, and organizing files and folders in a user-friendly interface.
 
-**Task Tracker**  
-React Js, JavaScript, Tailwind CSS, Node Js  
-[GitHub Repository](https://github.com/manjuhiremath/Task-Tracker)
+**Task Tracker**  |  React Js, JavaScript, Tailwind CSS, Node Js  |  [GitHub Repository](https://github.com/manjuhiremath/Task-Tracker)
 
 - Developed a user-friendly interface with tools for adding, listing, editing, deleting, and tracking tasks using React Js and Tailwind CSS.
 
