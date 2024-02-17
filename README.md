@@ -49,7 +49,8 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=manjuhiremath" alt="GitHub Streak" />
-</p>merge this both and give me the read me code for github
+<p/>
+  
 ## Career Objective:
 
 Dedicated and skilled in developing, debugging, and documenting web applications using React Js, Java, and Agile methodology. Seeking a position as a software developer in an innovative organization.
