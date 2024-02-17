@@ -101,7 +101,5 @@ Rasa, Python, JavaScript, HTML/CSS
 - Front End Web Development with React JS & JavaScript (Devtown)
 - Hotstar Clone using HTML, CSS and JavaScript (Devtown)
 
-## GitHub Stats:
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manjuhiremath&layout=compact)
 
