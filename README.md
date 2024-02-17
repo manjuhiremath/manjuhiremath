@@ -106,4 +106,4 @@ Rasa, Python, JavaScript, HTML/CSS
 ## GitHub Stats:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manjuhiremath&layout=compact)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=manjuhiremath)
+
