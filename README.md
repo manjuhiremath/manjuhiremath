@@ -53,17 +53,6 @@
 
 Dedicated and skilled in developing, debugging, and documenting web applications using React Js, Java, and Agile methodology. Seeking a position as a software developer in an innovative organization.
 
-## Education:
-
-- **Masters of Computer Application**
-  - JSS Academy of Technical Education (Pursuing) - Bengaluru, Karnataka
-  - CGPA: 8.00 / 10.00
-  - Feb 2023
-
-- **Bachelor of Computer Application**
-  - Alva’s Degree College, Moodbidri - Dakshina Kannada, Karnataka
-  - CGPA: 6.80 / 10.00
-  - June 2019 – Sept 2022
 
 ## Experience:
 
