@@ -4,7 +4,7 @@
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=manjuhiremath&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
 </p>
-[link](https://drive.google.com/file/d/1RK66zCvouKLAP2CYz1NcfFk4M9nmgnhk/view?usp=drivesdk)
+
 - 🌱 Currently mastering **React.js**
 
 - 📫 Reach me at **manjuhiremath1352@gmail.com**
