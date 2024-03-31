@@ -49,46 +49,6 @@
 
 
   
-## Career Objective:
-
-Dedicated and skilled in developing, debugging, and documenting web applications using React Js, Java, and Agile methodology. Seeking a position as a software developer in an innovative organization.
-
-
-## Experience:
-
-**Software Engineer Intern**  
-Neuronexa Labs - Bengaluru, Karnataka  
-Nov 2023 – Jan 2024
-
-- Developed a highly interactive web application applying the Agile Lifecycle Model.
-- Built web applications with React Js, Material-UI, HTML, CSS, and JavaScript.
-- Transformed designs into functional user interfaces.
-- Fixed technical issues and bugs that occurred after production deployments.
-- Skills Developed: React Js, Javascript, MySQL, Agile Development, GIT, GitHub.
-
-## Projects:
-
-**Song Recommendation Website**  
-Rasa, Python, JavaScript, HTML/CSS
-
-- Developed a conversational AI using Rasa with advanced Natural Language Processing (NLP) capabilities for song recommendations.
-
-**Cloud Files**  |  React.js, Firebase, Bootstrap  |  [GitHub Repository](https://github.com/manjuhiremath/cloud-files)
-
-- Built full-stack applications with modern technologies like React and Firebase. Developed features for uploading, creating, deleting, editing, and organizing files and folders in a user-friendly interface.
-
-**Task Tracker**  |  React Js, JavaScript, Tailwind CSS, Node Js  |  [GitHub Repository](https://github.com/manjuhiremath/Task-Tracker)
-
-- Developed a user-friendly interface with tools for adding, listing, editing, deleting, and tracking tasks using React Js and Tailwind CSS.
-
-## Certifications:
-
-- Introduction to Front-End Development (Meta)
-- Crash Course on Python (Google)
-- Programming in Java (Elite) (NPTEL)
-- Data Structures and Algorithms Using Java (NPTEL)
-- Front End Web Development with React JS & JavaScript (Devtown)
-- Hotstar Clone using HTML, CSS and JavaScript (Devtown)
 
 
 
