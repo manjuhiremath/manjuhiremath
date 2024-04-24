@@ -9,7 +9,7 @@
 
 - 📫 Reach me at **manjuhiremath1352@gmail.com**
 
-- 📄 Explore my experiences [Resume](https://drive.google.com/file/d/1oCNFWeK8ScoHJ6SDm4T4Mr9aBjDYZjP3/view?usp=sharing)
+- 📄 Explore my experiences [Resume](https://drive.google.com/file/d/1__mxy-0TJ7_4MD0qGwHcZ_rRB2LssJr7/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
